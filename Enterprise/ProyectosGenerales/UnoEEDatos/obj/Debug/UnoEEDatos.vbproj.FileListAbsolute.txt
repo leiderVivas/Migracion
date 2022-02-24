@@ -1,0 +1,7 @@
+C:\DV\UNOEENET\Migracion\Enterprise\_Compilados\UnoEEDatos.dll
+C:\DV\UNOEENET\Migracion\Enterprise\ProyectosGenerales\UnoEEDatos\obj\Debug\UnoEEDatos.Resources.resources
+C:\DV\UNOEENET\Migracion\Enterprise\ProyectosGenerales\UnoEEDatos\obj\Debug\UnoEEDatos.vbproj.GenerateResource.cache
+C:\DV\UNOEENET\Migracion\Enterprise\ProyectosGenerales\UnoEEDatos\obj\Debug\UnoEEDatos.vbproj.CoreCompileInputs.cache
+C:\DV\UNOEENET\Migracion\Enterprise\ProyectosGenerales\UnoEEDatos\obj\Debug\UnoEEDatos.dll
+C:\DV\UNOEENET\Migracion\Enterprise\ProyectosGenerales\UnoEEDatos\obj\Debug\UnoEEDatos.pdb
+C:\DV\UNOEENET\Migracion\Enterprise\_Compilados\UnoEEDatos.pdb
